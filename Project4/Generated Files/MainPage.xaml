@@ -1,0 +1,18 @@
+﻿<Page
+    x:Class="Project4.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Project4"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Height="168" Margin="44,36,0,0" TextWrapping="Wrap" Text="Project 4" VerticalAlignment="Top" Width="686" FontSize="50"/>
+        <Button x:ConnectionId='1' Content="Send" HorizontalAlignment="Left" Height="84" Margin="62,168,0,0" VerticalAlignment="Top" Width="260" FontSize="50"                     />
+        <TextBlock x:ConnectionId='2' HorizontalAlignment="Left" Margin="44,278,0,0" TextWrapping="Wrap" x:Name="Output" VerticalAlignment="Top" Height="64" Width="562"/>
+
+    </Grid>
+</Page>
+

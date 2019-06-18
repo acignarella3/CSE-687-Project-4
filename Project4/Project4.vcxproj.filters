@@ -58,4 +58,7 @@
   <ItemGroup>
     <Page Include="MainPage.xaml" />
   </ItemGroup>
+  <ItemGroup>
+    <Xml Include="..\testing.xml" />
+  </ItemGroup>
 </Project>

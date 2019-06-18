@@ -38,7 +38,7 @@ void Project4::MainPage::TextBox_TextChanged(Platform::Object^ sender, Windows::
 
 void Project4::MainPage::Button_Click(Platform::Object^ sender, Windows::UI::Xaml::RoutedEventArgs^ e)
 {
-	string xmlPath = "../testing.xml";
+	string xmlPath = "testing.xml";
 
 	testHarness harness;
 

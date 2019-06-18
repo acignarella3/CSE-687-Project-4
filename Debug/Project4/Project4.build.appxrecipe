@@ -31,6 +31,9 @@
     <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Debug\Project4\Project4.winmd">
       <PackagePath>Project4.winmd</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\testing.xml">
+      <PackagePath>testing.xml</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Project4\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
