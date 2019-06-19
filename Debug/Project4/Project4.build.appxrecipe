@@ -10,67 +10,67 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>e3ff3b40-983b-447a-a7e9-f0a00b3583de</PackageIdentityName>
     <PackageIdentityPublisher>CN=acign</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Project4\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Project4\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Debug\Project4\AppX</LayoutDir>
+    <LayoutDir>C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Debug\Project4\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Debug\Project4\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Debug\Project4\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Debug\Project4\Project4.exe">
+    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Debug\Project4\Project4.exe">
       <PackagePath>Project4.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Debug\Project4\Project4.winmd">
+    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Debug\Project4\Project4.winmd">
       <PackagePath>Project4.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\testing.xml">
+    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\testing.xml">
       <PackagePath>testing.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Project4\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Project4\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Project4\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Project4\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Project4\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Project4\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Project4\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Project4\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Project4\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Project4\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Project4\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Project4\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Project4\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Project4\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Debug\Project4\App.xbf">
+    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Debug\Project4\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Debug\Project4\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Debug\Project4\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.15063.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Debug\Project4\resources.pri">
+    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Debug\Project4\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

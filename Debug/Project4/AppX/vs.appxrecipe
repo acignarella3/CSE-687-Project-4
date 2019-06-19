@@ -10,14 +10,14 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>e3ff3b40-983b-447a-a7e9-f0a00b3583de</PackageIdentityName>
     <PackageIdentityPublisher>CN=acign</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Project4\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Project4\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Debug\Project4\AppX</LayoutDir>
+    <LayoutDir>C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Debug\Project4\AppX</LayoutDir>
     <RegisteredManifestChecksum>8AD1BC35E74C08F099239D55B223EC1BE718E766531A3285914F81D69429B0F8</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>e3ff3b40-983b-447a-a7e9-f0a00b3583de_1.0.0.0_x86__x6swrxcmp6bwj</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>e3ff3b40-983b-447a-a7e9-f0a00b3583de_x6swrxcmp6bwj!App</RegisteredUserModeAppID>
@@ -26,74 +26,74 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Debug\Project4\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Debug\Project4\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-06-18T02:33:21.508</Modified>
+      <Modified>2019-06-19T02:47:25.848</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Debug\Project4\Project4.exe">
+    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Debug\Project4\Project4.exe">
       <PackagePath>Project4.exe</PackagePath>
-      <Modified>2019-06-18T02:43:14.995</Modified>
+      <Modified>2019-06-19T03:11:43.831</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Debug\Project4\Project4.winmd">
+    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Debug\Project4\Project4.winmd">
       <PackagePath>Project4.winmd</PackagePath>
-      <Modified>2019-06-18T02:00:06.536</Modified>
+      <Modified>2019-06-19T02:47:19.937</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\testing.xml">
+    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\testing.xml">
       <PackagePath>testing.xml</PackagePath>
       <Modified>2019-05-13T01:17:55.787</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Project4\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Project4\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2019-06-16T20:06:45.999</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Project4\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Project4\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-06-16T20:06:45.999</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Project4\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Project4\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-06-16T20:06:45.999</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Project4\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Project4\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-06-16T20:06:45.999</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Project4\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Project4\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-06-16T20:06:45.999</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Project4\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Project4\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-06-16T20:06:45.999</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Project4\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Project4\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-06-16T20:06:45.999</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Debug\Project4\App.xbf">
+    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Debug\Project4\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-06-18T02:00:06.836</Modified>
+      <Modified>2019-06-19T02:47:20.108</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Debug\Project4\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Debug\Project4\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-06-18T02:43:10.030</Modified>
+      <Modified>2019-06-19T02:47:20.109</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.15063.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
       <Modified>2017-09-30T00:11:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Testing\Project4\Debug\Project4\resources.pri">
+    <AppxPackagedFile Include="C:\Users\acign\Documents\CSE 687 Projects\Project 4\CSE-687-Project-4\Debug\Project4\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-06-18T02:33:21.236</Modified>
+      <Modified>2019-06-19T02:47:25.666</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

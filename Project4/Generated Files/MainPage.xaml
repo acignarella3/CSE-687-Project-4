@@ -10,8 +10,8 @@
 
     <Grid>
         <TextBlock HorizontalAlignment="Left" Height="168" Margin="44,36,0,0" TextWrapping="Wrap" Text="Project 4" VerticalAlignment="Top" Width="686" FontSize="50"/>
-        <Button x:ConnectionId='1' Content="Send" HorizontalAlignment="Left" Height="84" Margin="62,168,0,0" VerticalAlignment="Top" Width="260" FontSize="50"                     />
-        <TextBlock x:ConnectionId='2' HorizontalAlignment="Left" Margin="44,278,0,0" TextWrapping="Wrap" x:Name="Output" VerticalAlignment="Top" Height="64" Width="562"/>
+        <Button x:ConnectionId='1' Content="Send Message" HorizontalAlignment="Left" Height="84" Margin="62,168,0,0" VerticalAlignment="Top" Width="400" FontSize="50"                     />
+        <TextBlock x:ConnectionId='2' HorizontalAlignment="Left" Margin="44,278,0,0" TextWrapping="Wrap" x:Name="Output" VerticalAlignment="Top" Height="128" Width="562"/>
 
     </Grid>
 </Page>

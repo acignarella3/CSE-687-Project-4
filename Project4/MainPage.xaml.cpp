@@ -8,6 +8,7 @@
 #include <iostream>
 #include <windows.h>
 #include "testHarness.h"
+#include <codecvt>
 
 using namespace Project4;
 
@@ -40,20 +41,31 @@ void Project4::MainPage::Button_Click(Platform::Object^ sender, Windows::UI::Xam
 {
 	string xmlPath = "testing.xml";
 
+	string result = "";
+
 	testHarness harness;
 
 	//harness.testFunction(xmlPath);
 
-	cout << "Sending Message 1" << endl << endl;
+	//cout << "Sending Message 1" << endl << endl;
+
+	result += "Sending message now:\n";
+
 	harness.sendMessage(xmlPath);
 
-	cout << "Sending Message 2" << endl << endl;
+	//cout << "Sending Message 2" << endl << endl;
 	//harness.sendMessage(xmlPath);
 
-	cout << "Sending Message 3" << endl << endl;
+	//cout << "Sending Message 3" << endl << endl;
 	//harness.sendMessage(xmlPath);
 
 	//string msg = harness.runTest();
 
-	Output->Text = "Test run!";
+	result += harness.log;
+
+	std::wstring_convert<std::codecvt_utf8<wchar_t>> converter;
+	std::wstring intermediateForm = converter.from_bytes(result);
+	Platform::String^ retVal = ref new Platform::String(intermediateForm.c_str());
+
+	Output->Text = retVal;
 }

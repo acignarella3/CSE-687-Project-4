@@ -21,5 +21,6 @@ public:
 	mutex mtx;
 	BlockingQueue<string> readyQueue;
 	BlockingQueue<string> xmlQueue;
+	string log;
 };
 
